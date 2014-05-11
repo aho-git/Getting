@@ -15,7 +15,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ### Data Set
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-### Analysis Variables
+### Analysis Variables (available in .txt files within dataset)
 | Variable | Descritpion
 | -------- |---------
 | Activity | The activity peformed.
