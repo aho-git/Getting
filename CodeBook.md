@@ -14,8 +14,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ### Data Set
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The dataset includes the following files:
-=========================================
+------------------------------------------
 
 - 'README.txt'
 
