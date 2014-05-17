@@ -20,3 +20,35 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive activity names. 
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 Good luck!
+
+
+
+##EXPLANATION OF SCRIPTS
+####Part One
+-Installs packages
+-Reads in labels for each activity
+-Reads in the features
+-Filters the features to onyl take values with mean/std in name
+-Reads in x_test data set then filters that out with the feature names in the variable created in the step above
+-Y_test is read in and filetered as well
+-Test subject is read in
+-A ttest data set is formed combining all 3 data sets
+
+####Part Two
+-The subject of training data set is read in
+-X_train is read in and filtered with the features variable to only have the ones with mean/std
+-Y_train is read in as well
+-Y_subject is read in
+-Ttrain variable is created with all three
+
+####Part Three
+-A total dataframe is created combining ttest adn ttrain
+-Data frame is given labels
+
+
+
+####Part Four
+-Tidy data set is created
+-Melts the data by labelcode and subject
+-Tidydata set is dcast to have the mean of all subjects calculated
+=Tidydata set is written to hard drive to be hard-saved
