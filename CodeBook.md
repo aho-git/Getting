@@ -47,10 +47,10 @@ The following files are available for the train and test data. Their description
 ------------------------------------------------------------------------------
 
 ###Changes that have been made to the data set
--Data set has been cleaned to only take the mean and std values included in the data sets
--The activity label has been matched with the number included in the data sets
--A new data set was created with only the mean, std
--A tidy data set was created that averaged each variable
+- Data set has been cleaned to only take the mean and std values included in the data sets
+- The activity label has been matched with the number included in the data sets
+- A new data set was created with only the mean, std
+- A tidy data set was created that averaged each variable
 
 ### Analysis Variables (available in .txt files within dataset)
 | Variable | Descritpion
