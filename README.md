@@ -48,6 +48,6 @@ Good luck!
 
 ####Part Four
 * Tidy data set is created
-*Melts the data by labelcode and subject
-*Tidydata set is dcast to have the mean of all subjects calculated
-*Tidydata set is written to hard drive to be hard-saved
+* Melts the data by labelcode and subject
+* Tidydata set is dcast to have the mean of all subjects calculated
+* Tidydata set is written to hard drive to be hard-saved 
